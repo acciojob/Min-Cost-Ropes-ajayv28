@@ -11,6 +11,7 @@ function mincost(arr)
 		arr.push(first + second);
 		arrr.sort((a,b) => a-b);
 	}
+	return cost;
 // return the min cost
   
 }
